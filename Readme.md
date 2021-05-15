@@ -1,4 +1,8 @@
-T1 -T2 Airway & Brain MRI syntheic Image generation
+T1 -T2 Airway & Brain MRI synthetic Image generation using cycle GAN
+
+Step 0 : Setup
+
+The conda eviornment for this project can be setup using the requirement.txt file.
 
 Step 1 : Preprocessing
 
@@ -19,4 +23,4 @@ Later this data is loaded into the gan model for training.
 
 Step 4 : Results
 
-the results get automaticaly generated into the root folder including the model.
+the results get automatically generated into the root folder including the model.
